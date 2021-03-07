@@ -20,7 +20,11 @@
     <script src="https://unpkg.com/swiper/swiper-bundle.js"></script>
     <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
 
+<<<<<<< HEAD
     <!-- <script type="text/javascript">
+=======
+    <script type="text/javascript">
+>>>>>>> 9a31047826b72f246ea3ede577a5ac6652e91889
         document.addEventListener("DOMContentLoaded", () => {
             var swiper1 = new Swiper('.swiper-container1', {
                 loop: true,
@@ -53,8 +57,13 @@
                 }
             })
         });
+<<<<<<< HEAD
     </script> -->
     <link rel="stylesheet" type="text/css" href="css/styles.css">
+=======
+    </script>
+    <link rel="stylesheet" type="text/css" href="./styles.css">
+>>>>>>> 9a31047826b72f246ea3ede577a5ac6652e91889
     <link rel="stylesheet" type="text/css" href="fonts/Lovelace/lovelace.css">
     <link rel="stylesheet" type="text/css" href="fonts/Montserrat/montserrat.css">
 

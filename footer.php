@@ -14,7 +14,11 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.6/umd/popper.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js"></script>
 
+<<<<<<< HEAD
     <link rel="stylesheet" type="text/css" href="css/styles.css">
+=======
+    <link rel="stylesheet" type="text/css" href="./styles.css">
+>>>>>>> 9a31047826b72f246ea3ede577a5ac6652e91889
     <link rel="stylesheet" type="text/css" href="fonts/Lovelace/lovelace.css">
     <link rel="stylesheet" type="text/css" href="fonts/Montserrat/montserrat.css">
 
